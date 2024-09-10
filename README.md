@@ -1,4 +1,4 @@
-The Dataset used for the project: 10.3389/fnhum.2024.1304311
+The Dataset used for the project: [blue_text](10.3389/fnhum.2024.1304311)
 
 # EEG Data Analysis Using MNE and Autoreject
 
